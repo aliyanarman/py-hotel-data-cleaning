@@ -1,0 +1,31 @@
+﻿hotel_id,hotel_name,booking_date,check_in_date,check_out_date,guest_name,email,phone,room_type,num_guests,total_price,payment_status,country,special_requests
+H001,Grand Plaza Hotel,1/15/2024,2/1/2024,2/5/2024,John Smith,john.smith@email.com,+1-555-0101,Deluxe,2,850.00,Paid,USA,Extra pillows
+H001,Grand Plaza Hotel,1/18/2024,2/10/2024,2/12/2024,Sarah Johnson,sarah.j@email.com,555-0102,Standard,1,320.00,Paid,USA,
+H002,Seaside Resort,1/20/2024,3/5/2024,3/8/2024,  Mike Davis  ,mike.davis@email.com,+44-20-5550103,Suite,3,1200.00,pending,UK,Late check-in
+H003,Mountain View Inn,1/22/2024,,2/25/2024,Emily Brown,emily.brown@email.com,+1-555-0104,Standard,2,450.00,Paid,Canada,None
+H002,Seaside Resort,1/25/2024,2/15/2024,2/15/2024,James Wilson,james.w@email.com,,Deluxe,2,0,Cancelled,Australia,
+H001,grand plaza hotel,1/28/2024,3/1/2024,3/4/2024,Lisa Anderson,LISA.ANDERSON@EMAIL.COM,+1-555-0106,deluxe,4,1100.00,Paid,usa,Crib needed
+H004,City Center Hotel,2/1/2024,2/20/2024,2/23/2024,Robert Taylor,robert.taylor@email.com,+1-555-0107,Standard,1,420.00,Paid,USA,
+H003,Mountain View Inn,2/3/2024,2/28/2024,3/2/2024,Maria Garcia,maria.garcia@email.com,+34-91-5550108,Suite,2,NULL,Pending,Spain,Vegetarian meals
+H002,Seaside Resort,2/5/2024,3/10/2024,3/14/2024,David Lee,david.lee@email.com,+82-2-5550109,Deluxe,3,1350.00,paid,South Korea,Airport shuttle
+H001,Grand Plaza Hotel,2/8/2024,3/15/2024,3/17/2024,Jennifer White,jennifer.white@email.com,+1-555-0110,Standard,1,280.00,Paid,USA,Early check-in
+H005,Lakeside Lodge,2/10/2024,3/20/2024,3/25/2024,Thomas Martin,thomas.martin@email.com,,Suite,2,1500.00,Paid,Canada,
+H004,City Center Hotel,2/12/2024,3/1/2024,3/1/2024,Patricia Thompson,patricia.t@email.com,+1-555-0112,Deluxe,-1,0,Cancelled,USA,
+H002,Seaside Resort,2/15/2024,4/1/2024,4/6/2024,Christopher Harris,chris.harris@email.com,+61-2-5550113,Standard,2,750.00,Paid,Australia,Ocean view
+H003,Mountain View Inn,2/18/2024,3/25/2024,3/28/2024,Jessica Clark,jessica.clark@email.com,+1-555-0114,Deluxe,3,950.00,PAID,USA,
+H001,Grand Plaza Hotel,2/20/2024,4/10/2024,4/12/2024,Daniel Lewis,daniel.lewis@email.com,+44-20-5550115,Suite,4,1800.00,Pending,UK,Anniversary package
+H005,Lakeside Lodge,2/22/2024,3/15/2024,3/20/2024,Nancy Robinson,nancy.r@email.com,+1-555-0116,Standard,1,NULL,Paid,USA,Quiet room
+H002,Seaside Resort,2/25/2024,4/15/2024,4/18/2024,Kevin Walker,kevin.walker@email.com,,Deluxe,2,1050.00,Paid,New Zealand,
+H004,City Center Hotel,2/28/2024,3/20/2024,3/23/2024,Michelle Hall,michelle.hall@email.com,+1-555-0118,Standard,2,540.00,paid,USA,
+H003,Mountain View Inn,3/1/2024,4/5/2024,4/9/2024,Steven Allen,steven.allen@email.com,+49-30-5550119,Suite,2,1400.00,Paid,Germany,Pet friendly room
+H001,Grand Plaza Hotel,3/3/2024,4/20/2024,4/22/2024,Laura Young,laura.young@email.com,+1-555-0120,Deluxe,3,850.00,Pending,USA,
+H005,Lakeside Lodge,3/5/2024,4/25/2024,4/30/2024,Paul King,paul.king@email.com,+353-1-5550121,Standard,1,625.00,Paid,Ireland,None
+H002,SEASIDE RESORT,3/8/2024,5/1/2024,5/5/2024,Karen Wright,karen.wright@email.com,,Suite,4,2000.00,Paid,USA,
+H004,City Center Hotel,3/10/2024,4/15/2024,4/17/2024,Mark Scott,mark.scott@email.com,+1-555-0123,Deluxe,2,700.00,Paid,Canada,
+H003,Mountain View Inn,3/12/2024,5/10/2024,5/13/2024,Sandra Green,sandra.green@email.com,+61-3-5550124,Standard,1,420.00,pending,Australia,Ground floor
+H001,Grand Plaza Hotel,3/15/2024,5/15/2024,5/18/2024,Brian Adams,brian.adams@email.com,+1-555-0125,Suite,2,1500.00,Paid,USA,Honeymoon
+H005,Lakeside Lodge,,5/20/2024,5/24/2024,Donna Baker,donna.baker@email.com,+44-121-5550126,Deluxe,3,1350.00,Paid,UK,
+H002,Seaside Resort,3/20/2024,6/1/2024,6/4/2024,George Nelson,george.nelson@email.com,+1-555-0127,Standard,2,600.00,Paid,USA,
+H004,City Center Hotel,3/22/2024,5/25/2024,5/28/2024,Carol Carter,carol.carter@email.com,,Deluxe,1,550.00,Paid,USA,
+H003,Mountain View Inn,3/25/2024,6/10/2024,6/15/2024,Edward Mitchell,edward.m@email.com,+1-555-0129,Suite,4,2500.00,Pending,Canada,Conference room access
+H001,Grand Plaza Hotel,3/28/2024,6/15/2024,6/17/2024,Betty Perez,betty.perez@email.com,+52-55-5550130,Standard,1,320.00,paid,Mexico,Spanish speaker
