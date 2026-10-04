@@ -1,5 +1,4 @@
-# Hotel Data Cleaning (Pandas)
-
+# Data Quality (Hotel)
 This repository contains a reproducible data-cleaning pipeline for a hotel booking dataset using Python and pandas. The goal is to resolve common real-world data quality issues before analysis or modeling.
 #### Note :
 This project focuses on data hygiene and logical consistency, not feature engineering or imputation. All ambiguous records are either corrected deterministically or removed for analytical reliability.
